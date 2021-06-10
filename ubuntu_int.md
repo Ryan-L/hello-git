@@ -170,12 +170,33 @@ $ sudo apt install texlive-base texlive-xetex # for Debian-based distributions
 ```
 
 pandoc-2.14.0.1-1-amd64.deb
-
+ 
 Font lost:
 sudo apt-get install ttf-mscorefonts-installer
+
+#### Drawio - desktop
+https://github.com/jgraph/drawio-desktop
 
 #### git
 
 git clone --recursive https://github.com/jgraph/drawio-desktop.git
 
 https://github.com/jgraph/drawio-desktop
+
+
+```
+rclone mount remote:path/to/files /path/to/local/mount
+```
+
+```
+rclone mount phvibox:data /home/it/Documents/box_data &&
+rclone mount phvibox:md /home/it/Documents/box_md --allow-non-empty
+```
+
+rclone mount phvibox:md /home/it/Documents/box_md --allow-non-empty
+
+```
+rclone --vfs-cache-mode writes mount phvibox:it_lab ~/box
+
+```
+

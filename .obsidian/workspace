@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "85c9c8a45b80c913",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6fe1f115920dc2d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ubuntu_int.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "029d942c14c73e6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dc2bad8c9408edc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "058f11dfac2654ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "58ab71482d4e7142",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "725deaae9d3b417e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c99ef65f06ab4020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1a8063b9442afc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ubuntu_int.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c6fe1f115920dc2d",
+  "lastOpenFiles": [
+    "ubuntu_int.md"
+  ]
+}
