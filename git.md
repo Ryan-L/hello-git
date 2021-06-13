@@ -39,4 +39,4 @@ at win10 push by htts
 #### Source 
 > https://ithelp.ithome.com.tw/articles/10254114
 
-> https://git-scm.com/book/zh-tw/v2/Git-%E5%9F%BA%E7%A4%8E-%E8%88%87%E9%81%A0%E7%AB%AF%E5%8D%94%E5%90%8C%E5%B7%A5%E4%BD%9C  基礎-與遠端協同工作
+> https://git-scm.com/book/zh-tw/v2/Git-%E5%9F%BA%E7%A4%8E-%E8%88%87%E9%81%A0%E7%AB%AF%E5%8D%94%E5%90%8C%E5%B7%A5%E4%BD%9C  基礎- 遠端協作
