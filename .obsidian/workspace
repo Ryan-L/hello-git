@@ -7,8 +7,11 @@
         "id": "27faf85f9867ffa7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "git.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,7 @@
   },
   "active": "27faf85f9867ffa7",
   "lastOpenFiles": [
+    "git.md",
     "Untitled.md",
     "ubuntu_int.md"
   ]
