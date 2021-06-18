@@ -1,6 +1,14 @@
 ### git testing 
 
 #### git sync 
+
+>git clone --recursive https://github.com/Ryan-L/py_ph.git
+git add .
+git commit -m " test"
+git remote add origin https://github.com/whalefine/xxxxxxxx.git 
+git push -u origin master
+
+
 ```
 git pull
 git staus
