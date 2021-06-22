@@ -1,0 +1,29 @@
+/* @theme junit5 */
+
+@import 'gaia';
+
+section {
+    font-family: 微軟正黑體
+    font-size: 40px;
+}
+
+h1 {
+    color: navy;
+}
+
+ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  li {
+    padding-left: 1em;
+    text-indent: -1em;
+    align: center
+  }
+
+  ul>li:before {
+    content: "✅";
+    padding-right: 5px;
+  }
