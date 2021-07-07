@@ -4,7 +4,6 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "c6fe1f115920dc2d",
         "type": "leaf",
         "state": {
@@ -13,13 +12,6 @@
             "file": "ubuntu_int.md",
             "mode": "source"
           }
-=======
-        "id": "fa5ac1779f779cf5",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
->>>>>>> 1a544b6f582285e224d2ca7fa3af606572ef6fd7
         }
       }
     ],
@@ -76,10 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "ubuntu_int.md",
-=======
->>>>>>> 1a544b6f582285e224d2ca7fa3af606572ef6fd7
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,11 +86,7 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
   "active": "c6fe1f115920dc2d",
-=======
-  "active": "fa5ac1779f779cf5",
->>>>>>> 1a544b6f582285e224d2ca7fa3af606572ef6fd7
   "lastOpenFiles": [
     "ubuntu_int.md",
     "git.md",
