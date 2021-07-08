@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ubuntu_int.md",
-            "mode": "source"
+            "file": "Tailscale.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ubuntu_int.md",
+                "file": "Tailscale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,12 @@
   },
   "active": "c6fe1f115920dc2d",
   "lastOpenFiles": [
+    "Tailscale.md",
+    "test_reveal.md",
+    "bibliometric_j.mm.md",
+    "12212020_b.md",
+    "Untitled.md",
     "ubuntu_int.md",
-    "git.md",
-    "Untitled.md"
+    "git.md"
   ]
 }
