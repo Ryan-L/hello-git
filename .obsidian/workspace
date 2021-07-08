@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tailscale.md",
-            "mode": "preview"
+            "file": "git.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tailscale.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,6 +76,28 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45e318b8d4479b8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67f2756cd597b2c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git.md"
               }
             }
           }
@@ -88,12 +110,13 @@
   },
   "active": "c6fe1f115920dc2d",
   "lastOpenFiles": [
-    "Tailscale.md",
-    "test_reveal.md",
+    "git.md",
     "bibliometric_j.mm.md",
     "12212020_b.md",
-    "Untitled.md",
+    "12212020.md",
     "ubuntu_int.md",
-    "git.md"
+    "test_reveal.md",
+    "Tailscale.md",
+    "Untitled.md"
   ]
 }
