@@ -4,11 +4,18 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "01a4638c262c3378",
+=======
+        "id": "c6fe1f115920dc2d",
+>>>>>>> 339cd2a004ee8db6ea83347ecafe9fef36dcf28e
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "git.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,6 +80,28 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45e318b8d4479b8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67f2756cd597b2c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git.md"
               }
             }
           }
@@ -82,11 +112,24 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "01a4638c262c3378",
   "lastOpenFiles": [
     "Untitled.md",
     "ubuntu_int.md",
     "test_reveal.md",
     "git.md"
+=======
+  "active": "c6fe1f115920dc2d",
+  "lastOpenFiles": [
+    "git.md",
+    "bibliometric_j.mm.md",
+    "12212020_b.md",
+    "12212020.md",
+    "ubuntu_int.md",
+    "test_reveal.md",
+    "Tailscale.md",
+    "Untitled.md"
+>>>>>>> 339cd2a004ee8db6ea83347ecafe9fef36dcf28e
   ]
 }
