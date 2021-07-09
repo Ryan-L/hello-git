@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fa5ac1779f779cf5",
+        "id": "01a4638c262c3378",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,10 +82,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa5ac1779f779cf5",
+  "active": "01a4638c262c3378",
   "lastOpenFiles": [
-    "git.md",
     "Untitled.md",
-    "ubuntu_int.md"
+    "ubuntu_int.md",
+    "test_reveal.md",
+    "git.md"
   ]
 }
