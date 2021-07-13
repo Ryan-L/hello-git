@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git.md",
-            "mode": "source"
+            "file": "Tailscale.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git.md",
+                "file": "Tailscale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git.md",
+                "file": "Tailscale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git.md"
+                "file": "Tailscale.md"
               }
             }
           }
@@ -110,13 +110,14 @@
   },
   "active": "c6fe1f115920dc2d",
   "lastOpenFiles": [
+    "Tailscale.md",
+    "ubuntu_int.md",
+    "test_reveal.md",
+    "img/tailscale_t.png",
     "git.md",
     "bibliometric_j.mm.md",
     "12212020_b.md",
     "12212020.md",
-    "ubuntu_int.md",
-    "test_reveal.md",
-    "Tailscale.md",
     "Untitled.md"
   ]
 }
