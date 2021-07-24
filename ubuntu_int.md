@@ -1,6 +1,6 @@
-[TOC]
 
 [[#update]]
+[TOC]
 [[#1 ubuntu software]]
 [[ubuntu_int#2 site download]]
 ### ubuntu install - it-lab-x230
