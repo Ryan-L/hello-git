@@ -1,4 +1,6 @@
+
 [[#update]]
+[TOC]
 [[#1 ubuntu software]]
 [[ubuntu_int#2 site download]]
 ### ubuntu install - it-lab-x230
@@ -199,5 +201,4 @@ rclone mount phvibox:md /home/it/Documents/box_md --allow-non-empty
 rclone --vfs-cache-mode writes mount phvibox:it_lab ~/box
 
 ```
-
 

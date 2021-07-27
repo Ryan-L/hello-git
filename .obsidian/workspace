@@ -10,7 +10,11 @@
           "type": "markdown",
           "state": {
             "file": "Tailscale.md",
+<<<<<<< HEAD
+            "mode": "preview"
+=======
             "mode": "source"
+>>>>>>> d9a35f797390fd953a262456da907a4a95b0e9ca
           }
         }
       }
@@ -112,6 +116,17 @@
   "active": "901474787f6c93bb",
   "lastOpenFiles": [
     "Tailscale.md",
+<<<<<<< HEAD
+    "ubuntu_int.md",
+    "test_reveal.md",
+    "img/tailscale_t.png",
+    "git.md",
+    "bibliometric_j.mm.md",
+    "12212020_b.md",
+    "12212020.md",
+    "Untitled.md"
+=======
     "test_reveal.md"
+>>>>>>> d9a35f797390fd953a262456da907a4a95b0e9ca
   ]
 }
