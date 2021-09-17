@@ -1,0 +1,13 @@
+{
+  "todoPageName": "",
+  "showChecked": false,
+  "groupBy": "page",
+  "sortDirection": "new->old",
+  "ignoreFiles": "log",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "Sep'15'2019~Sep'21'2019.md",
+    "FHM_agenda.md"
+  ]
+}

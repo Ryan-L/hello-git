@@ -1,0 +1,20 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "folder": "/log",
+    "enabled": false
+  },
+  "weekly": {
+    "format": "",
+    "template": "log/Weekly_template.md",
+    "folder": "log",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}
