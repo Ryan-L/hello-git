@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "19bae0dec0009332",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d1fb9284d045332",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9bb245eaa6a403ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bd03cdbf3e08546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d94890799e1cc073",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db4ef5f4e50fac22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4844ddff0de6c584",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dc6bc50054ae3d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b6b6c58071b68f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6d1fb9284d045332",
+  "lastOpenFiles": [
+    "git.md",
+    "bibliometric_j.mm.md",
+    "12212020_b.md",
+    "12212020.md",
+    "ubuntu_int.md",
+    "lxc ubuntu 20.04 install superset.md"
+  ]
+}
